@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated outputs
+figures/
+*.tmp
+*.log
+
+# Local course/process files not intended for a public resume repository
+/Assignment 2 - Peer evaluation sheet.*
+/Assignment 2 - Individual Write Up.*
+/Avalokite_PPT.pptx
+/Case Study.pptx
+/Case Study*.docx
+/Data Backtesting.*
+/Green_Transition_Alpha_Fund.pptx
+/Liu_Junyou_Member7_*
+/Member3*
+/PART2.*
+/Slide4_ESG_Screening.pptx
+/SPEAKER NOTES_04.docx
+/ppt*.docx
+/人员分工.txt
